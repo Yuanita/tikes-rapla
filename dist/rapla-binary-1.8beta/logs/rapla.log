@@ -1,0 +1,4 @@
+08:42:30.226 1389 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.13.v20130916
+08:42:30.297 1460 [main] INFO  o.e.j.d.p.ScanningAppProvider - Deployment monitor D:\D4-ITB\TiKes\TA\Referensi\ci\Source code Rapla\hernawatisamosir-repo-rapla\dist\rapla-binary-1.8beta\contexts at interval 1
+08:42:30.368 1531 [main] INFO  o.e.jetty.deploy.DeploymentManager - Deployable added: D:\D4-ITB\TiKes\TA\Referensi\ci\Source code Rapla\hernawatisamosir-repo-rapla\dist\rapla-binary-1.8beta\contexts\rapla.xml
+08:42:30.810 1973 [main] INFO  o.e.j.webapp.WebInfConfiguration - Extract jar:file:/D:/D4-ITB/TiKes/TA/Referensi/ci/Source%20code%20Rapla/hernawatisamosir-repo-rapla/dist/rapla-binary-1.8beta/webapps/rapla.war!/ to C:\Users\herna\AppData\Local\Temp;\jetty-rapla.war-_-any-\webapp
